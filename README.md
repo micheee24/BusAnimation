@@ -3,6 +3,9 @@
 ### Description
 This code creates a map using Mapbox API and displays a button. When the button is clicked, it animates a marker on the map along a predefined set of coordinates representing bus stops. The animation is achieved through a recursive function that uses a timeout to update the marker's position every second.
 
+### How to Run
+
+After acquiring the files you will then have to input your own API Token in order to load a map. Once that you have been able to load the map There will be a button on the top left if you press the button it will then do as described.
 
 ### Roadmap of Future Improvements
 I plan to create a live update feed of the Bus Tracker. Go even further as to track a few more Buses. Other possible improvements will be to have Trains or subways to the live feed. 
